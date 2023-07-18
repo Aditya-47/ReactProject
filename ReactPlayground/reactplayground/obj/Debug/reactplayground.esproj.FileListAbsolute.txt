@@ -1,0 +1,2 @@
+C:\Users\hp\repos\ReactProject\ReactProject\ReactPlayground\ReactPlayground\obj\Debug\reactplayground.esproj.SuggestedBindingRedirects.cache
+C:\Users\hp\repos\ReactProject\ReactProject\ReactPlayground\ReactPlayground\obj\Debug\reactplayground.esproj.CoreCompileInputs.cache
